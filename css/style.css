@@ -1,0 +1,29 @@
+body {
+    font-family: "Arial Narrow", Arial, Helvetica, sans-serif;
+}
+
+main {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+main #col-one {
+    border-left: 1px solid #000;
+}
+
+ol {
+    /* font-size: 100px; */
+}
+
+h2 {
+    font-weight: bold;
+}
+
+img {
+    max-width: 400px;
+    width: 100%;
+}
+
+.xp {
+    font-size: 20px;
+}
